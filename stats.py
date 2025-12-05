@@ -12,3 +12,4 @@ def get_num_char(text):
         else:
             char_dict[char] = 1
     print(char_dict)
+    return char_dict
